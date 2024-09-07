@@ -8,6 +8,8 @@ sites:
     url: $NODE1
   - name: Power Guilds Backend (node 2)
     url: $NODE2
+  - name: Image Generation Service
+    url: $IMAGE_GEN_SERVICE
   - name: Power Guilds Web Dashboard
     url: https://dash.powerguilds.foo.ng
   - name: Power Guilds Web Dashboard (Backend)
@@ -22,12 +24,15 @@ status-website:
   theme: night
   baseUrl: /statuspage
   logoUrl: https://powerguilds.foo.ng/assets/favicon.png
+  favicon: https://powerguilds.foo.ng/assets/favicon.png
   name: Power Guilds Status Page
   introTitle: "Statuspage for tracking uptime of **Power Guilds** services."
   introMessage: All updates will be posted alongside on your [Guilded Server](https://guilded.gg/powerguilds).
   navbar:
-    - title: Status
-      href: /
+    - title: Website
+      href: https://powerguilds.foo.ng
+    - title: Guilded
+      href: https://guilded.gg/powerguilds
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
