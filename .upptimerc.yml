@@ -21,7 +21,7 @@ status-website:
   # cname: demo.upptime.js.org
   theme: night
   baseUrl: /statuspage
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://powerguilds.foo.ng/assets/favicon.png
   name: Power Guilds Status Page
   introTitle: "Statuspage for tracking uptime of **Power Guilds** services."
   introMessage: All updates will be posted alongside on your [Guilded Server](https://guilded.gg/powerguilds).
