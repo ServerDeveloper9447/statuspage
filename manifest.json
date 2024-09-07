@@ -1,8 +1,8 @@
 {
   "background_color": "#ffffff",
   "theme_color": "#333333",
-  "name": "Upptime",
-  "short_name": "Upptime",
+  "name": "Statuspage",
+  "short_name": "PGSt",
   "display": "minimal-ui",
   "start_url": "/",
   "icons": [
