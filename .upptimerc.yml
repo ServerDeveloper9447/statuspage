@@ -20,9 +20,9 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
+  cname: status.powerguilds.foo.ng
   theme: night
-  baseUrl: /statuspage
+  # baseUrl: /
   logoUrl: https://powerguilds.foo.ng/assets/favicon.png
   favicon: https://powerguilds.foo.ng/assets/favicon.png
   name: Power Guilds Status Page
