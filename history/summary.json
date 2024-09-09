@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "power-guilds-backend-node-1",
     "status": "down",
-    "uptime": "0.59%",
+    "uptime": "0.58%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "0.59%",
-    "uptimeMonth": "0.59%",
-    "uptimeYear": "0.59%",
+    "uptimeWeek": "0.58%",
+    "uptimeMonth": "0.58%",
+    "uptimeYear": "0.58%",
     "time": 314,
     "timeDay": 0,
     "timeWeek": 314,
     "timeMonth": 314,
     "timeYear": 314,
     "dailyMinutesDown": {
-      "2024-09-09": 385,
+      "2024-09-09": 407,
       "2024-09-08": 1440,
       "2024-09-07": 540
     }
@@ -56,7 +56,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-09": 385,
+      "2024-09-09": 407,
       "2024-09-08": 1440,
       "2024-09-07": 553
     }
@@ -78,7 +78,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-09": 385,
+      "2024-09-09": 407,
       "2024-09-08": 1440,
       "2024-09-07": 442
     }
@@ -100,7 +100,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-09": 385,
+      "2024-09-09": 407,
       "2024-09-08": 1440,
       "2024-09-07": 551
     }
@@ -111,18 +111,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/internal.powerguilds.foo.ng.ico",
     "slug": "power-guilds-web-dashboard-backend",
     "status": "down",
-    "uptime": "1.21%",
+    "uptime": "1.20%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "1.21%",
-    "uptimeMonth": "1.21%",
-    "uptimeYear": "1.21%",
+    "uptimeWeek": "1.20%",
+    "uptimeMonth": "1.20%",
+    "uptimeYear": "1.20%",
     "time": 423,
     "timeDay": 0,
     "timeWeek": 423,
     "timeMonth": 423,
     "timeYear": 423,
     "dailyMinutesDown": {
-      "2024-09-09": 385,
+      "2024-09-09": 407,
       "2024-09-08": 1440,
       "2024-09-07": 522
     }
@@ -132,17 +132,17 @@
     "url": "$BACKUP_HOSTING",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "power-guilds-backup-hosting-should-be-up-when-both-node-1-and-node-2-are-down",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 198,
-    "timeDay": 196,
-    "timeWeek": 198,
-    "timeMonth": 198,
-    "timeYear": 198,
+    "time": 261,
+    "timeDay": 323,
+    "timeWeek": 261,
+    "timeMonth": 261,
+    "timeYear": 261,
     "dailyMinutesDown": {}
   }
 ]
