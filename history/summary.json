@@ -34,7 +34,7 @@
     "timeMonth": 314,
     "timeYear": 314,
     "dailyMinutesDown": {
-      "2024-09-09": 1302,
+      "2024-09-09": 1354,
       "2024-09-08": 1440,
       "2024-09-07": 540
     }
@@ -56,7 +56,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-09": 1302,
+      "2024-09-09": 1354,
       "2024-09-08": 1440,
       "2024-09-07": 553
     }
@@ -78,7 +78,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-09": 1302,
+      "2024-09-09": 1354,
       "2024-09-08": 1440,
       "2024-09-07": 442
     }
@@ -89,18 +89,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dash.powerguilds.foo.ng.ico",
     "slug": "power-guilds-web-dashboard",
     "status": "down",
-    "uptime": "0.05%",
+    "uptime": "0.04%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "0.05%",
-    "uptimeMonth": "0.05%",
-    "uptimeYear": "0.05%",
+    "uptimeWeek": "0.04%",
+    "uptimeMonth": "0.04%",
+    "uptimeYear": "0.04%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-09": 1302,
+      "2024-09-09": 1354,
       "2024-09-08": 1440,
       "2024-09-07": 551
     }
@@ -111,18 +111,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/internal.powerguilds.foo.ng.ico",
     "slug": "power-guilds-web-dashboard-backend",
     "status": "down",
-    "uptime": "0.87%",
+    "uptime": "0.86%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "0.87%",
-    "uptimeMonth": "0.87%",
-    "uptimeYear": "0.87%",
+    "uptimeWeek": "0.86%",
+    "uptimeMonth": "0.86%",
+    "uptimeYear": "0.86%",
     "time": 423,
     "timeDay": 0,
     "timeWeek": 423,
     "timeMonth": 423,
     "timeYear": 423,
     "dailyMinutesDown": {
-      "2024-09-09": 1302,
+      "2024-09-09": 1354,
       "2024-09-08": 1440,
       "2024-09-07": 522
     }
@@ -132,17 +132,17 @@
     "url": "$BACKUP_HOSTING",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "power-guilds-backup-hosting-should-be-up-when-both-node-1-and-node-2-are-down",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1395,
-    "timeDay": 3445,
-    "timeWeek": 1395,
-    "timeMonth": 1395,
-    "timeYear": 1395,
+    "time": 1338,
+    "timeDay": 3046,
+    "timeWeek": 1338,
+    "timeMonth": 1338,
+    "timeYear": 1338,
     "dailyMinutesDown": {}
   }
 ]
