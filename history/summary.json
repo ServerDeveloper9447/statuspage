@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "power-guilds-backend-node-1",
     "status": "down",
-    "uptime": "0.36%",
+    "uptime": "0.35%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "0.36%",
-    "uptimeMonth": "0.36%",
-    "uptimeYear": "0.36%",
+    "uptimeWeek": "0.35%",
+    "uptimeMonth": "0.35%",
+    "uptimeYear": "0.35%",
     "time": 314,
     "timeDay": 0,
     "timeWeek": 314,
     "timeMonth": 314,
     "timeYear": 314,
     "dailyMinutesDown": {
-      "2024-09-10": 410,
+      "2024-09-10": 517,
       "2024-09-09": 1440,
       "2024-09-08": 1440,
       "2024-09-07": 540
@@ -57,7 +57,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-10": 410,
+      "2024-09-10": 517,
       "2024-09-09": 1440,
       "2024-09-08": 1440,
       "2024-09-07": 553
@@ -80,7 +80,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-10": 410,
+      "2024-09-10": 517,
       "2024-09-09": 1440,
       "2024-09-08": 1440,
       "2024-09-07": 442
@@ -103,7 +103,7 @@
     "timeMonth": 3661,
     "timeYear": 3661,
     "dailyMinutesDown": {
-      "2024-09-10": 410,
+      "2024-09-10": 517,
       "2024-09-09": 1440,
       "2024-09-08": 1440,
       "2024-09-07": 551
@@ -115,18 +115,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/internal.powerguilds.foo.ng.ico",
     "slug": "power-guilds-web-dashboard-backend",
     "status": "down",
-    "uptime": "0.75%",
+    "uptime": "0.73%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "0.75%",
-    "uptimeMonth": "0.75%",
-    "uptimeYear": "0.75%",
+    "uptimeWeek": "0.73%",
+    "uptimeMonth": "0.73%",
+    "uptimeYear": "0.73%",
     "time": 423,
     "timeDay": 0,
     "timeWeek": 423,
     "timeMonth": 423,
     "timeYear": 423,
     "dailyMinutesDown": {
-      "2024-09-10": 410,
+      "2024-09-10": 517,
       "2024-09-09": 1440,
       "2024-09-08": 1440,
       "2024-09-07": 522
@@ -137,7 +137,7 @@
     "url": "$BACKUP_HOSTING",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "power-guilds-backup-hosting-should-be-up-when-both-node-1-and-node-2-are-down",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
