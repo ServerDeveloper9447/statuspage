@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 395,
-    "timeDay": 386,
-    "timeWeek": 395,
-    "timeMonth": 395,
-    "timeYear": 395,
+    "time": 391,
+    "timeDay": 354,
+    "timeWeek": 391,
+    "timeMonth": 391,
+    "timeYear": 391,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "power-guilds-backend-node-1",
     "status": "down",
-    "uptime": "0.42%",
+    "uptime": "0.40%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "0.42%",
-    "uptimeMonth": "0.42%",
-    "uptimeYear": "0.42%",
+    "uptimeWeek": "0.40%",
+    "uptimeMonth": "0.40%",
+    "uptimeYear": "0.40%",
     "time": 314,
     "timeDay": 0,
     "timeWeek": 314,
     "timeMonth": 314,
     "timeYear": 314,
     "dailyMinutesDown": {
-      "2024-09-09": 1373,
+      "2024-09-10": 69,
+      "2024-09-09": 1440,
       "2024-09-08": 1440,
       "2024-09-07": 540
     }
@@ -56,7 +57,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-09": 1373,
+      "2024-09-10": 69,
+      "2024-09-09": 1440,
       "2024-09-08": 1440,
       "2024-09-07": 553
     }
@@ -67,18 +69,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "image-generation-service",
     "status": "down",
-    "uptime": "0.02%",
+    "uptime": "0.01%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-09": 1373,
+      "2024-09-10": 69,
+      "2024-09-09": 1440,
       "2024-09-08": 1440,
       "2024-09-07": 442
     }
@@ -94,13 +97,14 @@
     "uptimeWeek": "0.04%",
     "uptimeMonth": "0.04%",
     "uptimeYear": "0.04%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "time": 3661,
+    "timeDay": 3661,
+    "timeWeek": 3661,
+    "timeMonth": 3661,
+    "timeYear": 3661,
     "dailyMinutesDown": {
-      "2024-09-09": 1373,
+      "2024-09-10": 69,
+      "2024-09-09": 1440,
       "2024-09-08": 1440,
       "2024-09-07": 551
     }
@@ -111,18 +115,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/internal.powerguilds.foo.ng.ico",
     "slug": "power-guilds-web-dashboard-backend",
     "status": "down",
-    "uptime": "0.85%",
+    "uptime": "0.82%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "0.85%",
-    "uptimeMonth": "0.85%",
-    "uptimeYear": "0.85%",
+    "uptimeWeek": "0.82%",
+    "uptimeMonth": "0.82%",
+    "uptimeYear": "0.82%",
     "time": 423,
     "timeDay": 0,
     "timeWeek": 423,
     "timeMonth": 423,
     "timeYear": 423,
     "dailyMinutesDown": {
-      "2024-09-09": 1373,
+      "2024-09-10": 69,
+      "2024-09-09": 1440,
       "2024-09-08": 1440,
       "2024-09-07": 522
     }
@@ -138,11 +143,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1300,
+    "time": 1249,
     "timeDay": 2768,
-    "timeWeek": 1300,
-    "timeMonth": 1300,
-    "timeYear": 1300,
+    "timeWeek": 1249,
+    "timeMonth": 1249,
+    "timeYear": 1249,
     "dailyMinutesDown": {}
   }
 ]
