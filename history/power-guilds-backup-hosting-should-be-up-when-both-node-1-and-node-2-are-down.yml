@@ -1,7 +1,7 @@
 url: $BACKUP_HOSTING
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-09-13T12:26:12.286Z
+status: up
+code: 200
+responseTime: 11149
+lastUpdated: 2024-09-13T12:56:27.696Z
 startTime: 2024-09-07T14:50:16.174Z
 generator: Upptime <https://github.com/upptime/upptime>
