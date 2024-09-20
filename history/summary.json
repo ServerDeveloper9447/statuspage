@@ -34,7 +34,7 @@
     "timeMonth": 307,
     "timeYear": 307,
     "dailyMinutesDown": {
-      "2024-09-20": 405,
+      "2024-09-20": 413,
       "2024-09-19": 1440,
       "2024-09-18": 1440,
       "2024-09-17": 1440,
@@ -67,7 +67,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-20": 405,
+      "2024-09-20": 413,
       "2024-09-19": 1440,
       "2024-09-18": 1440,
       "2024-09-17": 1440,
@@ -100,7 +100,7 @@
     "timeMonth": 194,
     "timeYear": 194,
     "dailyMinutesDown": {
-      "2024-09-20": 405,
+      "2024-09-20": 413,
       "2024-09-19": 1440,
       "2024-09-18": 1440,
       "2024-09-17": 1440,
@@ -133,7 +133,7 @@
     "timeMonth": 1845,
     "timeYear": 1845,
     "dailyMinutesDown": {
-      "2024-09-20": 405,
+      "2024-09-20": 413,
       "2024-09-19": 1440,
       "2024-09-18": 1440,
       "2024-09-17": 1440,
@@ -166,7 +166,7 @@
     "timeMonth": 803,
     "timeYear": 803,
     "dailyMinutesDown": {
-      "2024-09-20": 405,
+      "2024-09-20": 413,
       "2024-09-19": 1440,
       "2024-09-18": 1440,
       "2024-09-17": 1440,
@@ -187,17 +187,17 @@
     "url": "$BACKUP_HOSTING",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "power-guilds-backup-hosting-should-be-up-when-both-node-1-and-node-2-are-down",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2021,
-    "timeDay": 485,
-    "timeWeek": 2326,
-    "timeMonth": 2021,
-    "timeYear": 2021,
+    "time": 2003,
+    "timeDay": 442,
+    "timeWeek": 2283,
+    "timeMonth": 2003,
+    "timeYear": 2003,
     "dailyMinutesDown": {}
   }
 ]
