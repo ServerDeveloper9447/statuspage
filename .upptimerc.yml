@@ -14,8 +14,6 @@ sites:
     url: https://dash.powerguilds.foo.ng
   - name: Power Guilds Web Dashboard (Backend)
     url: https://internal.powerguilds.foo.ng
-  - name: Power Guilds Backup Hosting (Should be up when both node 1 and node 2 are down)
-    url: $BACKUP_HOSTING
   
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
