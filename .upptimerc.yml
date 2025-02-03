@@ -4,12 +4,8 @@ repo: statuspage # The name of this repository
 sites:
   - name: Power Guilds Website
     url: https://powerguilds.foo.ng
-  - name: Power Guilds Backend (node 1)
+  - name: Power Guilds Backend (If down but bot still running, it's likely on backup hosting)
     url: $NODE1
-  - name: Power Guilds Backend (node 2)
-    url: $NODE2
-  - name: Image Generation Service
-    url: $IMAGE_GEN_SERVICE
   - name: Power Guilds Web Dashboard
     url: https://dash.powerguilds.foo.ng
   - name: Power Guilds Web Dashboard (Backend)
