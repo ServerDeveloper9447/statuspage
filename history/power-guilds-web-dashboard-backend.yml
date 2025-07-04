@@ -1,7 +1,7 @@
 url: https://internal.powerguilds.foo.ng
-status: down
-code: 502
-responseTime: 20629
-lastUpdated: 2025-07-04T21:56:44.236Z
+status: up
+code: 200
+responseTime: 4198
+lastUpdated: 2025-07-04T22:15:58.776Z
 startTime: 2025-05-29T13:01:29.764Z
 generator: Upptime <https://github.com/upptime/upptime>
