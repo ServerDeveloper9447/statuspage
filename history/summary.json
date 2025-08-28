@@ -40,7 +40,7 @@
     "url": "https://dash.powerguilds.foo.ng",
     "icon": "https://icons.duckduckgo.com/ip3/dash.powerguilds.foo.ng.ico",
     "slug": "power-guilds-web-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "94.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.14%",
@@ -52,6 +52,7 @@
     "timeMonth": 3053,
     "timeYear": 2789,
     "dailyMinutesDown": {
+      "2025-08-28": 0,
       "2025-08-26": 149,
       "2025-08-25": 17,
       "2025-08-23": 21,
