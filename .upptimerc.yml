@@ -7,7 +7,7 @@ sites:
   - name: Power Guilds Backend (If down but bot still running, it's likely on backup hosting)
     url: $NODE1
   - name: Power Guilds Web Dashboard
-    url: https://power-guilds-dash.vercel.app
+    url: https://dash.powerguilds.foo.ng
   - name: Power Guilds Web Dashboard (Backend)
     url: $BACKEND_SERVER
   - name: Power Guilds Web Dashboard (Backend Domain Proxy Server)
